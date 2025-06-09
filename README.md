@@ -11,3 +11,5 @@ This is my first repository as a DevOps Engineer
 ![alt text](br1.png)
 
 ![alt text](br2.png)
+
+![alt text](2n.png) ![alt text](3n.png) ![alt text](4n.png) ![alt text](1n.png)
